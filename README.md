@@ -1,6 +1,6 @@
 # MySQL_Data_Cleaning_Project on World Life Expectancy
 
-# This code goes through the process of cleaning data
+# This Readme containg codes about creating my first sql database, cleaning data set and more
 
 #First, it looks for duplicate and delete the dupliacte.
 
